@@ -1,3 +1,4 @@
 .TestIgnoreFile
 *.log
 log/
+*.orig
